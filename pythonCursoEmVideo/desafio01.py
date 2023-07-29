@@ -14,3 +14,4 @@ print(f'A Substraição {num1} e {num2} vale {subtrair}');
 print()
 print(f'A Divisão {num1} e {num2} vale {dividir}');
 print()
+
